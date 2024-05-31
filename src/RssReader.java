@@ -7,16 +7,13 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.*;
 import java.net.URL;
 import java.net.URLConnection;
-import java.io.*;
 import java.util.*;
-import java.io.*;
 import java.net.HttpURLConnection;
 import java.util.ArrayList;
 import java.util.List;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import org.w3c.dom.Document;
-import org.w3c.dom.NodeList;
 
 public class RssReader {
 
