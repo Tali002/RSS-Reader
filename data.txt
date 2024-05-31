@@ -1,0 +1,11 @@
+TechCrunch;https://techcrunch.com;https://techcrunch.com/feed
+Gizmodo;https://gizmodo.com;https://gizmodo.com/rss
+The New York Times;https://nytimes.com;https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+The Guardian;https://theguardian.com;https://theguardian.com/international/rss
+The Wall Street Journal;https://wsj.com;https://feeds.a.dj.com/rss/RSSWorldNews.xml
+Wired;https://wired.com;https://wired.com/feed/rss
+Engadget;https://engadget.com;https://engadget.com/rss.xml
+TechRadar;https://techradar.com;https://techradar.com/rss
+Digital Trends;https://digitaltrends.com;https://digitaltrends.com/feed
+ورزش ۳;https://www.varzesh3.com;https://www.varzesh3.com/rss
+Apartment Therapy;https://apartmenttherapy.com;https://apartmenttherapy.com/main.rss
