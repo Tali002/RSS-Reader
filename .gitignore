@@ -1,0 +1,7 @@
+# IDE and build output
+*.iml
+.idea/
+out/
+
+# Compiled classes
+*.class
